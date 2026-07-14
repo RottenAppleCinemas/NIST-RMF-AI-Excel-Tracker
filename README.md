@@ -32,5 +32,3 @@ Tips
 - Consider maintaining separate copies of this workbook for different AI systems or use cases if their risk profiles differ significantly.
 - This template is a voluntary tool to help apply the AI RMF; it is not an official NIST publication or scoring methodology."
 
-Source: NIST AI Risk Management Framework 1.0 (NIST AI 100-1, Jan. 2023) and NIST AI RMF Playbook, National Institute of Standards and Technology (airc.nist.gov). Public domain U.S. Government material.
-<img width="771" height="32766" alt="image" src="https://github.com/user-attachments/assets/0a7acd7d-5924-488d-896f-90a0852cd7c5" />
